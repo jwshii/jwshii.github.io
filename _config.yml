@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
-title: Title
-description: I am a description.
+title: Jessica Shi
+description: <fake@example.com>
+github:
+  is_project_page: false
