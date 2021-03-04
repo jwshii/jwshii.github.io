@@ -2,4 +2,6 @@
 layout: default
 ---
 
-I am a X at Y interested in Z.
+I am a senior at MIT studying math and computer science.
+
+I can be reached at <jwshi@mit.edu>. 
