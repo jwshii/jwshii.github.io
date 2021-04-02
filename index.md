@@ -7,7 +7,7 @@ I can be reached at <jwshi@mit.edu>.
 
 ## Research
 
-### <span style="color:gray">Commit Group (Fall 2020–)</span>
+### <span style="color:gray">Commit Group (Fall 2019–)</span>
 
 I work on the [tensor algebra compiler (taco)](http://tensor-compiler.org/) project.
 
