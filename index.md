@@ -9,7 +9,7 @@ I can be reached at <jwshi@mit.edu>.
 
 ### MIT
 
-I worked as an undergraduate teaching assistant (UTA) and a lab assistant (LA).
+I was as an undergraduate teaching assistant (UTA) and a lab assistant (LA).
 
 | Term | Class | Title |
 |:---|:--- |:---|
@@ -22,4 +22,4 @@ I worked as an undergraduate teaching assistant (UTA) and a lab assistant (LA).
 
 ### Other
 
-In the summer of 2019, I was a junior staff member at the [Hampshire College Summer Studies in Mathematics](https://hcssim.org/), a program for high school students. I taught classes on topics such as group theory and linear algebra.
+In the summer of 2019, I was a junior staff member at the [Hampshire College Summer Studies in Mathematics](https://hcssim.org/), a program for high school students. I taught classes on group theory and linear algebra.
