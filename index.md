@@ -3,6 +3,7 @@ layout: default
 ---
 
 I am a senior at MIT studying math and computer science, where I am a member of the [tensor algebra compiler (taco)](http://tensor-compiler.org/) project.
+
 I can be reached at <jwshi@mit.edu>. 
 
 ## Teaching
