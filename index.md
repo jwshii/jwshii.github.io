@@ -6,6 +6,10 @@ I am a senior at MIT studying math and computer science, where I am a member of 
 
 I can be reached at <jwshi@mit.edu>. 
 
+## Research
+
+TBD.
+
 ## Teaching
 
 ### <span style="color:gray">MIT</span>
