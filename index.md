@@ -9,7 +9,7 @@ I can be reached at <jwshi@mit.edu>.
 
 ### MIT
 
-I have worked as both an undergraduate teaching assistant (UTA) and a lab assistant (LA).
+I worked as an undergraduate teaching assistant (UTA) and a lab assistant (LA).
 
 | Term | Class | Title |
 |:---|:--- |:---|
