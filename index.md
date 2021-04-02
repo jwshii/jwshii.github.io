@@ -13,7 +13,7 @@ I work with the [tensor algebra compiler (taco)](http://tensor-compiler.org/) pr
 
 ## Teaching
 
-### MIT
+### <span style="color:gray">MIT</span>
 
 I was as an undergraduate teaching assistant (UTA) and a lab assistant (LA).
 
@@ -26,6 +26,6 @@ I was as an undergraduate teaching assistant (UTA) and a lab assistant (LA).
 | Spring 2019 | Introduction to Computer Science | LA |
 
 
-### Other
+### <span style="color:gray">Other</span>
 
 In the summer of 2019, I was a junior staff member at the [Hampshire College Summer Studies in Mathematics](https://hcssim.org/), a program for high school students. I taught classes on group theory and linear algebra.
