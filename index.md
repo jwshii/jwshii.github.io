@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I am a senior at MIT studying math and computer science. I work on the [tensor algebra compiler (taco)](http://tensor-compiler.org/) project.
+I am a senior at MIT studying math and computer science. I work on the [tensor algebra compiler (taco)](http://tensor-compiler.org/).
 
 I can be reached at <jwshi@mit.edu>. 
 
@@ -27,4 +27,4 @@ I was an undergraduate teaching assistant (UTA) and a lab assistant (LA).
 
 ### <span style="color:gray">Other</span>
 
-In the summer of 2019, I was a junior staff member at the [Hampshire College Summer Studies in Mathematics](https://hcssim.org/), a program for high school students. I taught classes on group theory and linear algebra.
+I was a junior staff member in 2019 at the [Hampshire College Summer Studies in Mathematics](https://hcssim.org/), a program for high school students. I taught classes on group theory and linear algebra.
