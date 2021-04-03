@@ -8,7 +8,7 @@ I can be reached at <jwshi@mit.edu>.
 
 ## Research
 
-TBD.
+TK.
 
 ## Teaching
 
