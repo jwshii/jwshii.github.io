@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I am a senior at MIT studying math and computer science. I work on the [tensor algebra compiler (taco)](http://tensor-compiler.org/).
+I am a senior at MIT studying math and computer science. I am part of a group working on [taco](http://tensor-compiler.org/).
 
 I can be reached at <jwshi@mit.edu>. 
 
