@@ -1,5 +1,6 @@
 ---
 layout: default
+name: t
 title: null
 ---
 
@@ -11,4 +12,4 @@ I can be reached at <jwshi@mit.edu>.
 
 My Chinese name is 石韡谦. You can read about the middle character [here](https://baike.baidu.com/item/%E9%9F%A1).
 
-(testing testing testing)
+(testing)
