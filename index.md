@@ -1,7 +1,8 @@
 ---
 layout: default
-title: testing
 ---
+
+   
 
 ## About / [Research](https://jwshi21.github.io/research.html) / [Teaching](https://jwshi21.github.io/teaching.html)
 
