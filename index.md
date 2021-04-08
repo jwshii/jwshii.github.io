@@ -24,7 +24,10 @@ I was an undergraduate teaching assistant (UTA) and a lab assistant (LA).
 | Fall 2019   | [Introduction to Computer Science (6.0001/2)](https://sicp-s1.mit.edu/) | LA | 
 | Spring 2019 | Introduction to Computer Science | LA |
 
-
 ### <span style="color:gray">Other</span>
 
 I was a junior staff member in 2019 at the [Hampshire College Summer Studies in Mathematics](https://hcssim.org/), a program for high school students. I taught classes on group theory and linear algebra.
+
+## Personal
+
+My Chinese name is 石韡谦 (sh&#237; w&#283;i qi&#257;n). You can read about the middle character [here](https://baike.baidu.com/item/%E9%9F%A1). 
