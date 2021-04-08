@@ -30,4 +30,4 @@ I was a junior staff member in 2019 at the [Hampshire College Summer Studies in 
 
 ## Personal
 
-My Chinese name is 石韡谦 (sh&#237; w&#283;i qi&#257;n). You can read about the middle character [here](https://baike.baidu.com/item/%E9%9F%A1). 
+My Chinese name is 石韡谦. You can read about the middle character [here](https://baike.baidu.com/item/%E9%9F%A1). 
