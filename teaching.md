@@ -7,15 +7,12 @@ title: Teaching
 
 ### <span style="color:gray">MIT</span>
 
-I was an undergraduate teaching assistant (UTA) and a lab assistant (LA).
-
-| Term | Class | Role |
-|:---|:--- |:---|
-| Spring 2021 | [Elements of Software Construction (6.031)](https://web.mit.edu/6.031) | UTA | 
-| Fall 2020   | Elements of Software Construction | UTA | 
-| Spring 2020 | Elements of Software Construction | LA  | 
-| Fall 2019   | [Introduction to Computer Science (6.0001/2)](https://sicp-s1.mit.edu/) | LA | 
-| Spring 2019 | Introduction to Computer Science | LA |
+[Elements of Software Construction (6.031)](https://web.mit.edu/6.031)  
+undergraduate teaching assistant: Spring 2021, Fall 2020.  
+lab assistant: Spring 2020.  
+  
+[Introduction to Computer Science (6.0001/2)](https://sicp-s1.mit.edu/)  
+lab assistant: Fall 2019, Spring 2019. 
 
 ### <span style="color:gray">Other</span>
 
