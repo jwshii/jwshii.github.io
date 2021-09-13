@@ -9,4 +9,4 @@ I am a first year PhD student in computer science at the University of Pennsylva
 
 I can be reached at <jwshi@seas.upenn.edu>. 
 
-My Chinese name is 石韡谦. You can read about the middle character [here](https://baike.baidu.com/item/%E9%9F%A1).
+<!-- My Chinese name is 石韡谦. You can read about the middle character [here](https://baike.baidu.com/item/%E9%9F%A1). -->
