@@ -5,7 +5,9 @@ title: About
 
 ## About / [Research](https://jwshi21.github.io/research.html) / [Teaching](https://jwshi21.github.io/teaching.html)
 
-I am a first year PhD student in computer science at the University of Pennsylvania. My advisor is Benjamin Pierce. Previously, I was an undergraduate at MIT.
+I am a first year PhD student in computer science at the University of Pennsylvania. My advisor is Benjamin Pierce. 
+
+Previously, I was an undergraduate at MIT.
 
 I can be reached at <jwshi@seas.upenn.edu>. 
 
