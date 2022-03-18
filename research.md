@@ -5,7 +5,7 @@ title: Research
 
 ## [About](https://jwshi21.github.io/) / Research / [Teaching](https://jwshi21.github.io/teaching.html)
 
-### <span style="color:gray">testing</span>
+### <span style="color:gray">test</span>
 
 I am currently working on projects in the space of property-based testing, particularly as it relates to Haskell's QuickCheck. 
 
