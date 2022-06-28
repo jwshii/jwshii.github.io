@@ -7,7 +7,9 @@ title: Research
 
 ### <span style="color:gray">test</span>
 
-I am broadly interested in how to increase the effectiveness and usability of tools that increase the correctness and clarity of code. At the moment, this is manifesting as a project on _property-based testing_. I am also looking to wander into the world of _proof engineering_.
+I am broadly interested in how to increase the effectiveness and usability of tools that increase the correctness and clarity of code. 
+
+At the moment, this is manifesting as a project on _property-based testing_. I am also looking to wander into the world of _proof engineering_.
 
 ### <span style="color:gray">taco</span>
 
