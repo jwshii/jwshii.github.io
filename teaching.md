@@ -5,10 +5,15 @@ title: Teaching
 
 ## [About](https://jwshi21.github.io/) / [Research](https://jwshi21.github.io/research.html) / Teaching
 
+### <span style="color:gray">Penn</span>
+
+[Software Foundations (CIS 5000)](https://www.seas.upenn.edu/~cis5000/) 
+teaching assistant: Fall 2022.
+
 ### <span style="color:gray">MIT</span>
 
 [Elements of Software Construction (6.031)](https://web.mit.edu/6.031)  
-undergraduate teaching assistant: Spring 2021, Fall 2020.  
+teaching assistant: Spring 2021, Fall 2020.  
 lab assistant: Spring 2020.  
   
 [Introduction to Computer Science (6.0001/2)](https://sicp-s1.mit.edu/)  
