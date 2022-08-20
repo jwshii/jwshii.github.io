@@ -7,7 +7,7 @@ title: Teaching
 
 ### <span style="color:gray">Penn</span>
 
-[Software Foundations (CIS 5000)](https://www.seas.upenn.edu/~cis5000/) 
+[Software Foundations (CIS 5000)](https://www.seas.upenn.edu/~cis5000/)  
 teaching assistant: Fall 2022.
 
 ### <span style="color:gray">MIT</span>
