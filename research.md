@@ -9,9 +9,9 @@ I am broadly interested in how to increase the effectiveness and usability of to
 
 For example, how can we make it easier to read the proofs written in proof assistants? Our early ideas are presented below:
 
-[Towards a Science of Interactive Proof Reading](jwshi21.github.io/Plateau.pdf)  
+[Towards a Science of Interactive Proof Reading](https://jwshi21.github.io/Plateau.pdf)  
 _Jessica Shi_, Benjamin Pierce, Andrew Head.  
-Presented at PLATEAU in February 2023.s
+Presented at PLATEAU in February 2023.
 
 ### <span style="color:gray">other</span>
 
