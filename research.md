@@ -11,7 +11,7 @@ For example, how can we make it easier to read the proofs written in proof assis
 
 [Towards a Science of Interactive Proof Reading](https://jwshi21.github.io/Plateau.pdf)  
 _Jessica Shi_, Benjamin Pierce, Andrew Head.  
-Presented at PLATEAU in February 2023.
+PLATEAU 2023.
 
 ### <span style="color:gray">other</span>
 
