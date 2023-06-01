@@ -7,7 +7,7 @@ title: Teaching
 
 ### <span style="color:gray">Penn</span>
 
-Software Foundations for [REPL](https://penn-repl.github.io/)
+Software Foundations for [REPL](https://penn-repl.github.io/)   
 co-instructor: Summer 2023
 
 [Haskell (CIS 1940)](https://www.seas.upenn.edu/~cis1940/)  
