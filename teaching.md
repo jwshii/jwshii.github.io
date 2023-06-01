@@ -8,10 +8,10 @@ title: Teaching
 ### <span style="color:gray">Penn</span>
 
 [REPL's Software Foundations](https://penn-repl.github.io/)   
-co-instructor: Summer 2023
+co-instructor: Summer 2023.
 
 [Haskell (CIS 1940)](https://www.seas.upenn.edu/~cis1940/)  
-instructor: Spring 2023
+instructor: Spring 2023.
 
 [Software Foundations (CIS 5000)](https://www.seas.upenn.edu/~cis5000/)  
 teaching assistant: Fall 2022.
