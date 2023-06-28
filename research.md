@@ -5,7 +5,7 @@ title: Research
 
 ## [About](https://jwshi21.github.io/) / Research / [Teaching](https://jwshi21.github.io/teaching.html)
 
-Etna: An Evaluation Platform for Property-Based Testing  
+Etna: An Evaluation Platform for Property-Based Testing (Experience Report)   
 _Jessica Shi_, Alperen Keles, Harrison Goldstein, Benjamin Pierce, Leonidas Lampropoulos.  
 ICFP 2023.
 
